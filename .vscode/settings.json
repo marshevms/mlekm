@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "module.h": "c",
+        "percpu.h": "c",
+        "cache.h": "c",
+        "stat.h": "c",
+        "list.h": "c",
+        "types.h": "c",
+        "stddef.h": "c",
+        "kernel.h": "c",
+        "utils.h": "c",
+        "constans.h": "c",
+        "backlight.h": "c",
+        "platform_device.h": "c",
+        "configs.h": "c",
+        "config.h": "c",
+        "int-ll64.h": "c",
+        "cpu.h": "c",
+        "global_store.h": "c",
+        "kobject.h": "c",
+        "slab.h": "c",
+        "assert.h": "c",
+        "cdefs.h": "c"
+    }
+}
